@@ -1,2 +1,2 @@
-# Data Structures
-Some basic Data Structures in C/C++
+# DSA in Python
+Some basic Data Structures and Algorithms in Python
