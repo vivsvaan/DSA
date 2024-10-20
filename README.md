@@ -1,2 +1,2 @@
-# DSA Python
-Some basic Data Structures and Algorithms in Python
+# DSA - Data Structures and Algorithms
+Notes for Data Structures and Algorithms
