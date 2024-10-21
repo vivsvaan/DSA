@@ -14,4 +14,3 @@ The sequence of steps that we write to solve a problem
 - Algorithm teaches us writing the most efficient sequence of steps to solve a problem
 - It saves a log of CPU cycles
 - Makes our Software better
-
