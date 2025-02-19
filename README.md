@@ -14,3 +14,7 @@ The sequence of steps that we write to solve a problem
 - Algorithm teaches us writing the most efficient sequence of steps to solve a problem.
 - It saves a log of CPU cycles.
 - Makes our Software better.
+
+
+### LaTeX Mathematics - https://en.wikibooks.org/wiki/LaTeX/Mathematics
+### Maths Expressions - https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
